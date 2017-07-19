@@ -1,0 +1,2 @@
+# Movescript
+cube move script
